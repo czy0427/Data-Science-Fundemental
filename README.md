@@ -1,6 +1,6 @@
 # Data-Science-Fundemental
 
-This is a basic data science project including the entire pipeline.
+This is a basic data science project performing the entire pipeline.
 Prediction on whether a patient has stroke or not given the healthcare dataset. 
 
 Machine learning methodologies involved:
